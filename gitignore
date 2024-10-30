@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Expo-related files
+.expo/
+.expo-shared/
+
+# Logs and OS-specific files
+*.log
+*.lock
+.DS_Store
